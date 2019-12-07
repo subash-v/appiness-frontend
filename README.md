@@ -1,9 +1,13 @@
 # appiness-frontend
 
 # steps to execute
+
 git clone https://github.com/subash-v/appiness-frontend.git
+
 cd appiness-frontend
+
 yarn install
+
 yarn start
 
 
