@@ -1,7 +1,12 @@
 # appiness-frontend
 
+# steps to execute
 
-#valid email and passwords are:
+yarn install
+yarn start
+
+
+# valid email and passwords are:
 
 
 email: "test1@gmail.com"
